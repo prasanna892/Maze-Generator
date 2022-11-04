@@ -4,7 +4,7 @@
 
 ## Requirement
 
-python3
+python3<br>
 pygame
 
 ## Contact 
